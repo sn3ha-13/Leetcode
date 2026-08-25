@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sn3ha-13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sn3ha-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sn3ha-13/Leetcode/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sn3ha-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sn3ha-13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sn3ha-13/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sn3ha-13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sn3ha-13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
