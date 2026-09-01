@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/sn3ha-13/Leetcode/tree/master/0415-add-strings) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sn3ha-13/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
