@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sn3ha-13/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sn3ha-13/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0415-add-strings](https://github.com/sn3ha-13/Leetcode/tree/master/0415-add-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sn3ha-13/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sn3ha-13/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sn3ha-13/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
