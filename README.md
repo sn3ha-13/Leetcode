@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sn3ha-13/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [4020-elevator-requests-i](https://github.com/sn3ha-13/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/sn3ha-13/Leetcode/tree/master/0415-add-strings) |
+| [4020-elevator-requests-i](https://github.com/sn3ha-13/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Database
 |  |
 | ------- |
