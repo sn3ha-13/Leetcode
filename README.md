@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sn3ha-13/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sn3ha-13/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sn3ha-13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sn3ha-13/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sn3ha-13/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sn3ha-13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sn3ha-13/Leetcode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sn3ha-13/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0389-find-the-difference](https://github.com/sn3ha-13/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
