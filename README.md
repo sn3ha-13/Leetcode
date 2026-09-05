@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sn3ha-13/Leetcode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/sn3ha-13/Leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/sn3ha-13/Leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/sn3ha-13/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/sn3ha-13/Leetcode/tree/master/0627-swap-sex-of-employees) |
