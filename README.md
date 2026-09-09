@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sn3ha-13/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sn3ha-13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sn3ha-13/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sn3ha-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sn3ha-13/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sn3ha-13/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sn3ha-13/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/sn3ha-13/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sn3ha-13/Leetcode/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sn3ha-13/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sn3ha-13/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sn3ha-13/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sn3ha-13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sn3ha-13/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sn3ha-13/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sn3ha-13/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sn3ha-13/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sn3ha-13/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Newton's Method
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sn3ha-13/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sn3ha-13/Leetcode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sn3ha-13/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/sn3ha-13/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sn3ha-13/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sn3ha-13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sn3ha-13/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sn3ha-13/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sn3ha-13/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sn3ha-13/Leetcode/tree/master/0389-find-the-difference) |
