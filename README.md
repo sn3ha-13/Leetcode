@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sn3ha-13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sn3ha-13/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sn3ha-13/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sn3ha-13/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sn3ha-13/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sn3ha-13/Leetcode/tree/master/0066-plus-one) |
@@ -206,9 +207,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sn3ha-13/Leetcode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sn3ha-13/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
