@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sn3ha-13/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/sn3ha-13/Leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sn3ha-13/Leetcode/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sn3ha-13/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/sn3ha-13/Leetcode/tree/master/4020-elevator-requests-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sn3ha-13/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sn3ha-13/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sn3ha-13/Leetcode/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
