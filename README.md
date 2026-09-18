@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sn3ha-13/Leetcode/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sn3ha-13/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sn3ha-13/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/sn3ha-13/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sn3ha-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sn3ha-13/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0541-reverse-string-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/sn3ha-13/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Array
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sn3ha-13/Leetcode/tree/master/0055-jump-game) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/sn3ha-13/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
