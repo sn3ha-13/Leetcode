@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sn3ha-13/Leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sn3ha-13/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sn3ha-13/Leetcode/tree/master/0724-find-pivot-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sn3ha-13/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/sn3ha-13/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/sn3ha-13/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sn3ha-13/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
