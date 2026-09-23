@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sn3ha-13/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sn3ha-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sn3ha-13/Leetcode/tree/master/0389-find-the-difference) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/sn3ha-13/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sn3ha-13/Leetcode/tree/master/0724-find-pivot-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sn3ha-13/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/sn3ha-13/Leetcode/tree/master/4020-elevator-requests-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/sn3ha-13/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Two Pointers
 |  |
 | ------- |
