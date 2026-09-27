@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sn3ha-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sn3ha-13/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sn3ha-13/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sn3ha-13/Leetcode/tree/master/0012-integer-to-roman) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sn3ha-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sn3ha-13/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sn3ha-13/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sn3ha-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sn3ha-13/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
